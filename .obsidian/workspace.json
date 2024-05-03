@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Basics.md",
+                "file": "QGIS/QGIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Basics.md",
+                "file": "QGIS/QGIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Basics.md",
+                "file": "QGIS/QGIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Basics.md"
+                "file": "QGIS/QGIS.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "a42142dcbdf08349",
   "lastOpenFiles": [
+    "Docker/Docker.md",
+    "QGIS/QGIS.md",
+    "Flutter&DART/Flutter&DART.md",
     "Azure/Azure Fundamentals/Getting Started With Azure.md",
-    "Azure/AZ-Fundamentals/Getting Started With Azure.md",
+    "Flutter&DART",
+    "Docker",
+    "QGIS",
     "Git/Git Basics.md",
+    "Azure/AZ-Fundamentals/Getting Started With Azure.md",
     "Git",
     "Python/VENVs in Python.md",
     "Git",

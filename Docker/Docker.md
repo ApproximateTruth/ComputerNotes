@@ -1,0 +1,1 @@
+Docker is the industry standard way of implementing containers for large cloud computing working with AWS, Google Cloud and Azure among others.

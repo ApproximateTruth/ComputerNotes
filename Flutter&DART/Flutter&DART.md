@@ -1,0 +1,1 @@
+Flutter is a flexible helpful framework for app creation, since it compiles locally on IOS and Android devices, it's not necessary to create two different apps

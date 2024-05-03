@@ -9,3 +9,4 @@ $ git add .
 ```
 this command adds _everything_ (that is not pre-exempted by the .gitignore file) and puts it all into the view of the git repo. 
 
+
